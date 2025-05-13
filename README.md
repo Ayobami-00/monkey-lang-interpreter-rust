@@ -54,8 +54,7 @@ monkey-lang-interpreter-rust/
 
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/YOUR_USERNAME/monkey-lang-interpreter-rust.git
-cd monkey-lang-interpreter-rust
+git clone https://github.com/enfinity/monkey-lang-interpreter-rust.git
 ```
 
 ### 2. Build the Project
